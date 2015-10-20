@@ -2,6 +2,6 @@
 	"use strict";
 
 	document.addEventListener("DOMContentLoaded", function() {
-		alert("grunt demo"); // demo message
+		alert("grunt demo");
 	});
 }());

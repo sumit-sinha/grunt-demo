@@ -1,4 +1,4 @@
-Its a Javascript application based on the blog posted here http://saberblogs.com/blog/grunt_build
+Its a Javascript application based on the blog posted here http://www.saberblogs.com/ui_build_and_deployment
 
 To run this application follow below steps
 
